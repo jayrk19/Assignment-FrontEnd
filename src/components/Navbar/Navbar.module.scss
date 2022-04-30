@@ -1,0 +1,15 @@
+.Navbar{
+    height: 60px;
+    border-radius: 0px 0px 25px 25px;
+    box-shadow: 0px 4px 14px 0px #18A0FB1F;
+    background-color: #FFFFFF78;
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+
+    .Bell{
+        margin: 0 10px 0 20px;
+    }
+}
